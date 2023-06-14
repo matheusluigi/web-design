@@ -1,0 +1,21 @@
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    list-style-type: none;
+    background-color: black;
+    position: relative;
+    width: 1440px;
+    height: 800px;
+    background-image: url(../inside_job/img/boris-baldinger-IGGj1siFqDc-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
