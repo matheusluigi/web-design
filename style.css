@@ -1,0 +1,192 @@
+
+.header{
+    overflow: hidden;
+    width: 707px;
+    height: 53px;
+    position: absolute;
+    top: 55px;
+    left: 367px;
+}
+
+.home{
+    position: absolute;
+    width: 42px;
+    height: 18px;
+    left: 38px;
+    top: 20px;
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.content{
+    position: absolute;
+    width: 77px;
+    height: 18px;
+    left: 213px;
+    top: 20px;
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button_login{
+    position: absolute;
+    width: 49px;
+    height: 18px;
+    left: 426px;
+    top: 21px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+.suporte{
+    position: absolute;
+    width: 68px;
+    height: 14px;
+    left: 611px;
+    top: 20px;
+
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+.body_logo{
+    position: absolute;
+    width: 798px;
+    height: 161px;
+    left: calc(50% - 798px/2);
+    top: 172px; 
+}
+.logo_inside_job{
+    position: absolute;
+    width: 302px;
+    height: 92px;
+    left: calc(50% - 302px/2 + 18px);
+    top: 49px;
+
+    font-family: 'DM Serif Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 86px;
+    text-transform: lowercase;
+
+    color: #00AD51;
+
+}
+.text_start_up{
+    position: absolute;
+    width: 116px;
+    height: 27px;
+    left: 341px;
+    top: 13px;
+
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: lowercase;
+
+    color: #1B1B1B;
+}
+.line_logo{
+    position: absolute;
+    width: 408px;
+    height: 0px;
+    left: 195px;
+    top: 49px;
+
+    border: 2px solid #6C6C6C;
+
+}
+.business_content{
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    left: 62px;
+    top: 422px;
+
+}
+.businessperson_text{
+    position: absolute;
+    width: 583px;
+    height: 69px;
+    left: 26px;
+    top: 0px;
+
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+.user_content{
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    left: 751px;
+    top: 422px;
+}
+.user_text{
+    position: absolute;
+    width: 583px;
+    height: 69px;
+    left: 26px;
+    top: 0px;
+
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.button_sing_up{
+    position: absolute;
+    width: 297px;
+    height: 50px;
+    left: 572px;
+    top: 611px;
+    border-radius: 15px;
+    font-family: 'Cousine';
+    font-style: normal;
+    background-color: #00AD51;
+    font-size: medium;
+    color: #FFFFFF;
+    cursor: pointer;
+}
